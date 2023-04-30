@@ -16,7 +16,7 @@ Step 6 - Specify 1st-level
 Step 7 - Estimate 1st-level  
 Step 8 - Analysis of Contrasts  
   
-RA-MATLAB:
+RA-MATLAB:  
 **Step 1 - Slice-Timing**  
 **Step 2 - Realignment**  
 Step 3 - Co-Registration  
