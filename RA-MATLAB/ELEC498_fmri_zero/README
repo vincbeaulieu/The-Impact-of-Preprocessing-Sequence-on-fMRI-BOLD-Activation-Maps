@@ -1,0 +1,34 @@
+
+                  ELEC498 - fMRI practical work
+
+This data set contains the raw fMRI data of one single subject, 
+along with SPM analysis scripts.
+
+File organization:
+------------------
+
+- batch_import_data.m
+    Script to convert raw fMRI data to "origin" data that are more easily
+    handled by SPM. This is the 1st script to run.
+    See more details in the comments at the begining of this script.
+
+- batch_spm_1st_level_full_pipeline.m
+    Script to run the data analysis on the "origin" data, 
+    comprising preprocessings and GLM fitting.
+    See more details in the comments at the begining of this script.    
+
+code/
+    All the matlab code common to ELEC498, needed by the
+    different batch scripts. 
+raw/
+    - t1_GH158_3T_siemens[.hrd, .img] :
+         anatomical image
+    - t2epi_GH158_3T_siemens_[1...128][.hrf, .img] : 
+         raw fMRI volumes with 128 scans and a TR of 2.4 sec
+    - t2epi_GH158_3T_siemens_paradigm_full.csv :
+         stimulation events as a table where lines are trials and columns
+         are: session_index, trial_type, onset (sec), amplitude (dummy values) 
+
+
+
+
