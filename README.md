@@ -1,3 +1,5 @@
+# ELEC_445-6671_Final-Project
+
 ## Topic
 On a single subject analysis (SSA data set):
     Compare the impact of the order of slice-timing and realignment preprocessings
