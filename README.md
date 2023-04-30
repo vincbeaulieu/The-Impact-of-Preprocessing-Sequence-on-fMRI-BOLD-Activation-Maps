@@ -26,6 +26,9 @@ Step 6 - Specify 1st-level
 Step 7 - Estimate 1st-level  
 Step 8 - Analysis of Contrasts  
     
-## Github (Scripts and MATLAB Job Code)  
+## Github (Scripts and MATLAB Job Code):  
 https://github.com/vincbeaulieu/ELEC_445-6671_Final-Project  
+
+## Google Drive Folder (Report and Word docx):
+https://drive.google.com/drive/folders/1zKwiiQQGrONpOGnHDolM7-B44YUKe5ns?usp=sharing
   
