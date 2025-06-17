@@ -1,5 +1,7 @@
-# ELEC_445-6671_Final-Project
+# ELEC_445-6671_Final-Project  
 
+## The Impact of Preprocessing Sequence on fMRI BOLD Activation Maps  
+  
 ## Requirements  
 - The fMRI data from https://drive.google.com/drive/folders/1rexBHYp9D72NDNiLnqille8UY3ih0H-b?usp=sharing  
 - MATLAB with SPM12 installed  
