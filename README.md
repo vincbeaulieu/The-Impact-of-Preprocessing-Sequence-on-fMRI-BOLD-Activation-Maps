@@ -1,5 +1,4 @@
-# The Impact of Preprocessing Sequence on fMRI BOLD Activation Maps  
-ELEC 445-6671 Final Project 
+# ELEC_445-6671_Final-Project 
 
   
 ## Requirements  
